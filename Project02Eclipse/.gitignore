@@ -1,0 +1,14 @@
+# Ignorer tous les fichiers .log
+*.log
+
+# Ignorer le dossier temporaire
+temp/
+
+# Ignorer les fichiers de configuration de l'IDE IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorer les dossiers de build et de compilation Java
+target/
+build/
+out/
